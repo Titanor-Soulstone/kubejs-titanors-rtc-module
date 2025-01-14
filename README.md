@@ -1,0 +1,1 @@
+sets the in game time to realtime
