@@ -1,0 +1,12 @@
+{
+    "author": "Titanor-Soulstone",
+    "description": "sets the in game time to realtime",
+    "versions": [
+        10
+    ],
+    "modloaders": [
+        "forge"
+    ],
+    "dependencies": [],
+    "incompatibilities": []
+}
